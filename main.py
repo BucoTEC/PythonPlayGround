@@ -1,5 +1,3 @@
-print("hello world from python")
+rooms = {1:"safe", 'ime':"advna"}
 
-grade = int(input('enter your grade: '))
-
-print(grade)
+print(rooms['ime'])
